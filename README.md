@@ -4,5 +4,5 @@
 - 🤔 I’m looking for help with AI
 - 📫 How to reach me: Syi19691@gmail.com
 
-![image](/img/popo.gif)  
+![image](/popo.gif)  
 popo!
