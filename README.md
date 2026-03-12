@@ -5,4 +5,3 @@
 - 📫 How to reach me: Syi19691@gmail.com
 
 ![image](/popo.gif)  
-popo!
